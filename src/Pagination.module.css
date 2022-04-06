@@ -1,0 +1,18 @@
+.link {
+    cursor: pointer;
+    background-color: inherit;
+    border: none;
+    margin: 20px 15px;
+    font-size: 26px; 
+    cursor: pointer;
+    text-decoration: underline;
+    color: white;
+}
+
+.link:hover {
+    color: blue;
+}
+
+.activeLink {
+    color: blue;
+}
